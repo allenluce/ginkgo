@@ -1,7 +1,7 @@
 package fail_fixture_test
 
 import (
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 )
 
@@ -47,7 +47,6 @@ var _ = Describe("Excercising different skip modes", func() {
 		println("NEVER SEE THIS")
 	}, 1)
 })
-
 
 var _ = Describe("SKIP in a BeforeEach", func() {
 	BeforeEach(func() {

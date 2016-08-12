@@ -5,7 +5,7 @@ import (
 
 	. "github.com/onsi/ginkgo/extensions/table"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 )
 

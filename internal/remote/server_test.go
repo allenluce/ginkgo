@@ -1,7 +1,7 @@
 package remote_test
 
 import (
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/internal/remote"
 	. "github.com/onsi/gomega"
 

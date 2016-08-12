@@ -2,8 +2,8 @@ package hanging_suite_test
 
 import (
 	"fmt"
+	. "github.com/allenluce/ginkgo"
 	"time"
-	. "github.com/onsi/ginkgo"
 )
 
 var _ = AfterSuite(func() {

@@ -3,7 +3,7 @@ package suite_test
 import (
 	"bytes"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/internal/suite"
 	. "github.com/onsi/gomega"
 

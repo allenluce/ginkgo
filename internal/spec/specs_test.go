@@ -3,7 +3,7 @@ package spec_test
 import (
 	"math/rand"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/internal/spec"
 	. "github.com/onsi/gomega"
 

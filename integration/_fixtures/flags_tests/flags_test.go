@@ -3,11 +3,11 @@ package flags_test
 import (
 	"flag"
 	"fmt"
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/integration/_fixtures/flags_tests"
 	. "github.com/onsi/gomega"
-	"time"
 	remapped "math"
+	"time"
 )
 
 var customFlag string

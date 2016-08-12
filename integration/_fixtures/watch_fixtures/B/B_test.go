@@ -3,7 +3,7 @@ package B_test
 import (
 	. "github.com/onsi/ginkgo/integration/_fixtures/watch_fixtures/B"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 )
 

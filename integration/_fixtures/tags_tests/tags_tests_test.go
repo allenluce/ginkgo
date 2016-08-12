@@ -1,7 +1,7 @@
 package tags_tests_test
 
 import (
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 )
 
 var _ = Describe("TagsTests", func() {

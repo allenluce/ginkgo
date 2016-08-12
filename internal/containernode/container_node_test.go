@@ -4,7 +4,7 @@ import (
 	"github.com/onsi/ginkgo/internal/leafnodes"
 	"math/rand"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 
 	"github.com/onsi/ginkgo/internal/codelocation"

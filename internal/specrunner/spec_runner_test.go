@@ -1,7 +1,7 @@
 package specrunner_test
 
 import (
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/internal/specrunner"
 	"github.com/onsi/ginkgo/types"
 	. "github.com/onsi/gomega"

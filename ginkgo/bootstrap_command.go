@@ -137,12 +137,12 @@ func generateBootstrap(agouti, noDot, internal bool) {
 	data := bootstrapData{
 		Package:       determinePackageName(packageName, internal),
 		FormattedName: formattedName,
-		GinkgoImport:  `. "github.com/onsi/ginkgo"`,
+		GinkgoImport:  `. "github.com/allenluce/ginkgo"`,
 		GomegaImport:  `. "github.com/onsi/gomega"`,
 	}
 
 	if noDot {
-		data.GinkgoImport = `"github.com/onsi/ginkgo"`
+		data.GinkgoImport = `"github.com/allenluce/ginkgo"`
 		data.GomegaImport = `"github.com/onsi/gomega"`
 	}
 

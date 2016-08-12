@@ -3,7 +3,7 @@ package reporters_test
 import (
 	"time"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/reporters"
 	st "github.com/onsi/ginkgo/reporters/stenographer"

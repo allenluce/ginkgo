@@ -3,7 +3,7 @@ package test_description_test
 import (
 	"fmt"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 )
 

@@ -1,7 +1,7 @@
 package more_ginkgo_tests_test
 
 import (
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/ginkgo/integration/_fixtures/more_ginkgo_tests"
 	. "github.com/onsi/gomega"
 )

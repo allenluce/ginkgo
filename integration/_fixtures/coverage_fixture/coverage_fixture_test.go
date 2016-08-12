@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo/integration/_fixtures/coverage_fixture"
 	. "github.com/onsi/ginkgo/integration/_fixtures/coverage_fixture/external_coverage_fixture"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 )
 

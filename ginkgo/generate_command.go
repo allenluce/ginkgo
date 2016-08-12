@@ -36,7 +36,7 @@ var specText = `package {{.Package}}
 import (
 	. "{{.PackageImportPath}}"
 
-	{{if .IncludeImports}}. "github.com/onsi/ginkgo"{{end}}
+	{{if .IncludeImports}}. "github.com/allenluce/ginkgo"{{end}}
 	{{if .IncludeImports}}. "github.com/onsi/gomega"{{end}}
 )
 
@@ -50,7 +50,7 @@ var agoutiSpecText = `package {{.Package}}_test
 import (
 	. "{{.PackageImportPath}}"
 
-	{{if .IncludeImports}}. "github.com/onsi/ginkgo"{{end}}
+	{{if .IncludeImports}}. "github.com/allenluce/ginkgo"{{end}}
 	{{if .IncludeImports}}. "github.com/onsi/gomega"{{end}}
 	. "github.com/sclevine/agouti/matchers"
 	"github.com/sclevine/agouti"
