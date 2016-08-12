@@ -2,7 +2,7 @@ package failing_ginkgo_tests_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	. "github.com/onsi/ginkgo/integration/_fixtures/failing_ginkgo_tests"
+	. "github.com/allenluce/ginkgo/integration/_fixtures/failing_ginkgo_tests"
 	. "github.com/onsi/gomega"
 )
 

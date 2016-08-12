@@ -2,12 +2,12 @@ package leafnodes_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	. "github.com/onsi/ginkgo/internal/leafnodes"
+	. "github.com/allenluce/ginkgo/internal/leafnodes"
 	. "github.com/onsi/gomega"
 
-	"github.com/onsi/ginkgo/internal/codelocation"
-	Failer "github.com/onsi/ginkgo/internal/failer"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/internal/codelocation"
+	Failer "github.com/allenluce/ginkgo/internal/failer"
+	"github.com/allenluce/ginkgo/types"
 	"time"
 )
 

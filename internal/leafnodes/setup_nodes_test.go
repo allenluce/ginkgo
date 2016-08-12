@@ -2,12 +2,12 @@ package leafnodes_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/types"
 	. "github.com/onsi/gomega"
 
-	. "github.com/onsi/ginkgo/internal/leafnodes"
+	. "github.com/allenluce/ginkgo/internal/leafnodes"
 
-	"github.com/onsi/ginkgo/internal/codelocation"
+	"github.com/allenluce/ginkgo/internal/codelocation"
 )
 
 var _ = Describe("Setup Nodes", func() {

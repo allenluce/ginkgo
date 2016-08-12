@@ -4,10 +4,10 @@ import (
 	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/onsi/ginkgo/config"
-	. "github.com/onsi/ginkgo/internal/remote"
-	st "github.com/onsi/ginkgo/reporters/stenographer"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/config"
+	. "github.com/allenluce/ginkgo/internal/remote"
+	st "github.com/allenluce/ginkgo/reporters/stenographer"
+	"github.com/allenluce/ginkgo/types"
 	"time"
 )
 

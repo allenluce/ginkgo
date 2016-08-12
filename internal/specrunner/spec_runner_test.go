@@ -2,18 +2,18 @@ package specrunner_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	. "github.com/onsi/ginkgo/internal/specrunner"
-	"github.com/onsi/ginkgo/types"
+	. "github.com/allenluce/ginkgo/internal/specrunner"
+	"github.com/allenluce/ginkgo/types"
 	. "github.com/onsi/gomega"
 
-	"github.com/onsi/ginkgo/config"
-	"github.com/onsi/ginkgo/internal/codelocation"
-	"github.com/onsi/ginkgo/internal/containernode"
-	Failer "github.com/onsi/ginkgo/internal/failer"
-	"github.com/onsi/ginkgo/internal/leafnodes"
-	"github.com/onsi/ginkgo/internal/spec"
-	Writer "github.com/onsi/ginkgo/internal/writer"
-	"github.com/onsi/ginkgo/reporters"
+	"github.com/allenluce/ginkgo/config"
+	"github.com/allenluce/ginkgo/internal/codelocation"
+	"github.com/allenluce/ginkgo/internal/containernode"
+	Failer "github.com/allenluce/ginkgo/internal/failer"
+	"github.com/allenluce/ginkgo/internal/leafnodes"
+	"github.com/allenluce/ginkgo/internal/spec"
+	Writer "github.com/allenluce/ginkgo/internal/writer"
+	"github.com/allenluce/ginkgo/reporters"
 )
 
 var noneFlag = types.FlagTypeNone

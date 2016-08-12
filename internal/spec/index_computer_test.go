@@ -2,7 +2,7 @@ package spec_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	. "github.com/onsi/ginkgo/internal/spec"
+	. "github.com/allenluce/ginkgo/internal/spec"
 	. "github.com/onsi/gomega"
 )
 

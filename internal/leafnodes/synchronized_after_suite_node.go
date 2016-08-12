@@ -2,8 +2,8 @@ package leafnodes
 
 import (
 	"encoding/json"
-	"github.com/onsi/ginkgo/internal/failer"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/internal/failer"
+	"github.com/allenluce/ginkgo/types"
 	"io/ioutil"
 	"net/http"
 	"time"

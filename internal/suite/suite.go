@@ -4,15 +4,15 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/onsi/ginkgo/config"
-	"github.com/onsi/ginkgo/internal/containernode"
-	"github.com/onsi/ginkgo/internal/failer"
-	"github.com/onsi/ginkgo/internal/leafnodes"
-	"github.com/onsi/ginkgo/internal/spec"
-	"github.com/onsi/ginkgo/internal/specrunner"
-	"github.com/onsi/ginkgo/internal/writer"
-	"github.com/onsi/ginkgo/reporters"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/config"
+	"github.com/allenluce/ginkgo/internal/containernode"
+	"github.com/allenluce/ginkgo/internal/failer"
+	"github.com/allenluce/ginkgo/internal/leafnodes"
+	"github.com/allenluce/ginkgo/internal/spec"
+	"github.com/allenluce/ginkgo/internal/specrunner"
+	"github.com/allenluce/ginkgo/internal/writer"
+	"github.com/allenluce/ginkgo/reporters"
+	"github.com/allenluce/ginkgo/types"
 )
 
 type ginkgoTestingT interface {

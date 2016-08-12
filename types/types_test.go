@@ -1,7 +1,7 @@
 package types_test
 
 import (
-	. "github.com/onsi/ginkgo/types"
+	. "github.com/allenluce/ginkgo/types"
 
 	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"

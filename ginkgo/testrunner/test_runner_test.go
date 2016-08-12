@@ -2,8 +2,8 @@ package testrunner_test
 
 import (
 	. "github.com/allenluce/ginkgo"
-	"github.com/onsi/ginkgo/ginkgo/testrunner"
-	"github.com/onsi/ginkgo/ginkgo/testsuite"
+	"github.com/allenluce/ginkgo/ginkgo/testrunner"
+	"github.com/allenluce/ginkgo/ginkgo/testsuite"
 	. "github.com/onsi/gomega"
 	"testing"
 )

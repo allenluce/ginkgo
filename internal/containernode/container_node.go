@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"sort"
 
-	"github.com/onsi/ginkgo/internal/leafnodes"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/internal/leafnodes"
+	"github.com/allenluce/ginkgo/types"
 )
 
 type subjectOrContainerNode struct {

@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	. "github.com/allenluce/ginkgo"
-	. "github.com/onsi/ginkgo/integration/_fixtures/flags_tests"
+	. "github.com/allenluce/ginkgo/integration/_fixtures/flags_tests"
 	. "github.com/onsi/gomega"
 	remapped "math"
 	"time"

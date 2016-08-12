@@ -3,7 +3,7 @@ package table_test
 import (
 	"strings"
 
-	. "github.com/onsi/ginkgo/extensions/table"
+	. "github.com/allenluce/ginkgo/extensions/table"
 
 	. "github.com/allenluce/ginkgo"
 	. "github.com/onsi/gomega"

@@ -2,9 +2,9 @@ package leafnodes
 
 import (
 	"fmt"
-	"github.com/onsi/ginkgo/internal/codelocation"
-	"github.com/onsi/ginkgo/internal/failer"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/internal/codelocation"
+	"github.com/allenluce/ginkgo/internal/failer"
+	"github.com/allenluce/ginkgo/types"
 	"reflect"
 	"time"
 )

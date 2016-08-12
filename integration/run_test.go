@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	. "github.com/allenluce/ginkgo"
-	"github.com/onsi/ginkgo/types"
+	"github.com/allenluce/ginkgo/types"
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"
 	"github.com/onsi/gomega/gexec"
